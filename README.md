@@ -8,8 +8,7 @@ This project is developed by a team of three to create a platform where users ca
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Authors](#Authors)
 
 ## Features
 
