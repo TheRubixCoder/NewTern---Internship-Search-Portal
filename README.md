@@ -1,4 +1,4 @@
-# MERN Stack Internship Platform
+# newtern Portal
 
 This project is developed by a team of three to create a platform where users can view internship/placement company details and allows student and staff coordinators to add posts.
 
