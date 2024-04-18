@@ -39,31 +39,31 @@ This project is developed by a team of three to create a platform where users ca
 2. Install dependencies for the server:
 
    ```bash
-cd mern-internship-platform
-npm install
+   cd mern-internship-platform
+   npm install
 
 3. Install dependencies for the client:
 
    ```bash
-cd client
-npm install
-
+   cd client
+   npm install
+   
 4. Create a .env file in the root directory and add the following environment variables:
 
    ```env
-PORT=3001
-MONGO_URL=your_mongodb_connection_string
+   PORT=3001
+   MONGO_URL=your_mongodb_connection_string
 
 5. Run the server:
 
    ```bash
-npm start
+   npm start
 
 6. Run the client:
 
    ```bash
-cd client
-npm start
+   cd client
+   npm start
 
 ## Usage
 Visit http://localhost:5173 in your browser to access the application.
@@ -73,5 +73,5 @@ Add posts to share internship/placement opportunities.
 
 ## Authors
 Akilan
-Bilal
+Bilal (https://github.com/mhmd-bilal/)
 Shiva
